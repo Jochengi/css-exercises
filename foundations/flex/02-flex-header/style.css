@@ -32,13 +32,3 @@ a {
   /* this removes the line under the links */
   text-decoration: none;
 }
-
-.left-links {
-  display: flex;
-  justify-content: space-between;
-}
-
-.right-links {
-  display: flex;
-  justify-content: space-between;
-}
